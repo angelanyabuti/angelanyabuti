@@ -4,7 +4,9 @@
 - 📫 Currently studying Python and Javascript
 - [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=angelanyabuti&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=angelanyabuti&langs_count=5&theme=tokyonight)]()
-
+-<p>
+    <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+</p>
 
 <!---
 angelanyabuti/angelanyabuti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
