@@ -4,6 +4,7 @@
 - 📫 Currently studying Python and Javascript
 - [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=angelanyabuti&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=angelanyabuti&langs_count=5&theme=tokyonight)]()
+![Snake](https://github.com/angelanyabuti/angelanyabuti/blob/output/github-contribution-grid-snake.svg)
 -<h2> Frameworks and Libraries </h2> 
 <p>
     <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
@@ -23,7 +24,6 @@
     [<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/creativetimofficial) [<img alt="Github" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/CreativeTim)
 </p>
 
-![Snake](https://github.com/angelanyabuti/angelanyabuti/blob/output/github-contribution-grid-snake.svg)
 
 
 
