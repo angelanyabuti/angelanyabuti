@@ -1,8 +1,9 @@
-- 👋 Hi, I’m angela nyabuti
+-<h1> #100DaysofCode
+-  👋 Hi, I’m angela nyabuti
 - 👀 I’m interested in website design and mobile application development..
 - 📫 you can reach me through my email address nyabutiangella@gmail.com...
 - 📫 Currently studying Python and Javascript 
-- #100 days of code
+- 
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=angelanyabuti&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=angelanyabuti&langs_count=5&theme=tokyonight)]()
