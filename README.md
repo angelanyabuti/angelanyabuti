@@ -6,14 +6,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 January 2023 - To: 01 February 2023
+From: 21 January 2023 - To: 02 February 2023
 
-Total Time: 11 hrs 25 mins
+Total Time: 11 hrs 28 mins
 
-PHP          6 hrs 40 mins   >>>>>>>>>>>>>>>----------   58.40 %
-CSS          3 hrs 43 mins   >>>>>>>>-----------------   32.65 %
-JSON         22 mins         >------------------------   03.33 %
-Bash         22 mins         >------------------------   03.29 %
+PHP          6 hrs 40 mins   >>>>>>>>>>>>>>>----------   58.17 %
+CSS          3 hrs 43 mins   >>>>>>>>-----------------   32.52 %
+JSON         25 mins         >------------------------   03.71 %
+Bash         22 mins         >------------------------   03.28 %
 Other        10 mins         -------------------------   01.57 %
 ```
 
