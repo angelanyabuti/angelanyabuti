@@ -6,15 +6,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 January 2023 - To: 01 August 2023
+From: 21 January 2023 - To: 02 August 2023
 
-Total Time: 355 hrs 37 mins
+Total Time: 359 hrs 9 mins
 
-PHP              266 hrs 34 mins >>>>>>>>>>>>>>>>>>>------   74.96 %
-Blade Template   34 hrs 7 mins   >>-----------------------   09.60 %
-HTML             23 hrs 18 mins  >>-----------------------   06.56 %
-CSS              21 hrs 20 mins  >>-----------------------   06.00 %
-Bash             2 hrs 36 mins   -------------------------   00.73 %
+PHP              266 hrs 34 mins >>>>>>>>>>>>>>>>>>>------   74.22 %
+Blade Template   34 hrs 7 mins   >>-----------------------   09.50 %
+HTML             23 hrs 18 mins  >>-----------------------   06.49 %
+CSS              21 hrs 20 mins  >------------------------   05.94 %
+XML              4 hrs 58 mins   -------------------------   01.39 %
 ```
 
 <!--END_SECTION:waka-->
