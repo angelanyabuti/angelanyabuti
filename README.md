@@ -1,24 +1,8 @@
 
-[![wakatime](https://wakatime.com/badge/user/66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac.svg)](https://wakatime.com/@66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac)
 [![wakatime](https://wakatime.com/badge/user/bad464a2-50cd-467b-bb39-a16ea09f8894.svg)](https://wakatime.com/@bad464a2-50cd-467b-bb39-a16ea09f8894)
 
 
 
-<!--START_SECTION:waka-->
-
-```txt
-From: 21 January 2023 - To: 02 January 2024
-
-Total Time: 469 hrs 10 mins
-
-PHP              288 hrs 17 mins >>>>>>>>>>>>>>>----------   61.45 %
-Java             45 hrs 2 mins   >>-----------------------   09.60 %
-Blade Template   34 hrs 7 mins   >>-----------------------   07.27 %
-XML              33 hrs 7 mins   >>-----------------------   07.06 %
-HTML             30 hrs 17 mins  >>-----------------------   06.46 %
-```
-
-<!--END_SECTION:waka-->
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=angelanyabuti&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=angelanyabuti&langs_count=5&theme=tokyonight)]()
