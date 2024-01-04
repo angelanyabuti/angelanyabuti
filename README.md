@@ -1,4 +1,5 @@
 [![wakatime]([https://wakatime.com/badge/user/66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac.svg](https://wakatime.com/badge/user/bad464a2-50cd-467b-bb39-a16ea09f8894.svg))](https://wakatime.com/@66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac)
+[![wakatime](https://wakatime.com/badge/user/66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac.svg)](https://wakatime.com/@66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac)
 
 https://wakatime.com/badge/user/bad464a2-50cd-467b-bb39-a16ea09f8894.svg
 <a href="https://wakatime.com/@bad464a2-50cd-467b-bb39-a16ea09f8894"><img src="https://wakatime.com/badge/user/bad464a2-50cd-467b-bb39-a16ea09f8894.svg" alt="Total time coded since Jan 22 2023" /></a>
