@@ -4,6 +4,8 @@
 
 [![wakatime](https://wakatime.com/badge/user/bad464a2-50cd-467b-bb39-a16ea09f8894.svg)](https://wakatime.com/@bad464a2-50cd-467b-bb39-a16ea09f8894)
 <p>Check out my <a href="https://angelanyabuti.netlify.app/">Portfolio</a></p>
+[![GitHub Views](https://komarev.com/ghpvc/?username=angelanyabuti&color=FAC151)][1]
+
 
 
 
