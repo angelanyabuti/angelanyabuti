@@ -7,7 +7,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=angelanyabuti&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=angelanyabuti&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=angelanyabuti&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=angelanyabuti&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=angelanyabuti&langs_count=5&theme=tokyonight)]()
 ![Snake](https://github.com/angelanyabuti/angelanyabuti/blob/output/github-contribution-grid-snake.svg)
