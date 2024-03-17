@@ -4,7 +4,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/bad464a2-50cd-467b-bb39-a16ea09f8894.svg)](https://wakatime.com/@bad464a2-50cd-467b-bb39-a16ea09f8894)
 <p>Check out my <a href="https://angelanyabuti.netlify.app/" style="text-decoration:none;">Portfolio</a></p>
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gruvbox
+[![trophy](https://github-profile-trophy.vercel.app/?username=angelanyabuti&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=angelanyabuti&count_private=true&theme=tokyonight&showicons=true)]()
