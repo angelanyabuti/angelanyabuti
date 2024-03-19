@@ -3,11 +3,12 @@
 
 
 [![wakatime](https://wakatime.com/badge/user/bad464a2-50cd-467b-bb39-a16ea09f8894.svg)](https://wakatime.com/@bad464a2-50cd-467b-bb39-a16ea09f8894)
+![](https://komarev.com/ghpvc/?username=angelanyabuti&color=blue)
 <p>Check out my <a href="https://angelanyabuti.netlify.app/" style="text-decoration:none;">Portfolio</a></p>
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=angelanyabuti&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
-![](https://komarev.com/ghpvc/?username=angelanyabuti&color=green)
+
 
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=angelanyabuti&count_private=true&theme=tokyonight&showicons=true)]()
