@@ -6,6 +6,7 @@
 ![](https://komarev.com/ghpvc/?username=angelanyabuti&color=blue)
 <p>Check out my <a href="https://angelanyabuti.netlify.app/" style="text-decoration:none;">Portfolio</a></p>
 
+[![first-timers-only](https://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat-square)](https://www.firsttimersonly.com/)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=angelanyabuti&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
