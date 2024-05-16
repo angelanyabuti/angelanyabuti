@@ -8,8 +8,15 @@
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=angelanyabuti&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+<table>
+    <tbody>
+        <tr><img src="https://github-readme-stats.vercel.app/api?username=angelanyabuti&theme=yeblu&show_icons=true&hide_border=true&count_private=true" alt="angelanyabuti's GitHub Stats" width="300" height="200"/></tr>
+        <tr><img src="https://github-readme-streak-stats.herokuapp.com/?user=angelanyabuti&theme=yeblu&hide_border=true" alt="angelanyabuti's GitHub Stats" width="300" height="200"/></tr>
+        <tr><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelanyabuti&theme=yeblu&show_icons=true&hide_border=true&layout=compact" alt="angelanyabuti's GitHub Stats" width="200" height="250"/></tr>
+    </tbody>
+</table>
 
-<img src="https://github-readme-stats.vercel.app/api?username=angelanyabuti&theme=yeblu&show_icons=true&hide_border=true&count_private=true" alt="angelanyabuti's GitHub Stats" width="300" height="200"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=angelanyabuti&theme=yeblu&hide_border=true" alt="angelanyabuti's GitHub Stats" width="300" height="200"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelanyabuti&theme=yeblu&show_icons=true&hide_border=true&layout=compact" alt="angelanyabuti's GitHub Stats" width="200" height="250"/>
+
 
 <!--
 -<h2> Frameworks and Libraries </h2> 
