@@ -9,8 +9,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=angelanyabuti&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
-https://github-readme-streak-stats.herokuapp.com/?user=angelanyabuti&theme=yeblu&hide_border=true
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=angelanyabuti&theme=yeblu&hide_border=true" alt="angelanyabuti's GitHub Stats" />
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=angelanyabuti&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=angelanyabuti&langs_count=5&theme=tokyonight)]()
 <!--
