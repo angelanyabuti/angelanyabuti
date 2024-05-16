@@ -11,7 +11,7 @@
 <div>
     <img src="https://github-readme-stats.vercel.app/api?username=angelanyabuti&theme=yeblu&show_icons=true&hide_border=true&count_private=true" alt="angelanyabuti's GitHub Stats" width="300" height="200" style="display: inline-block; margin-right: 10px;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=angelanyabuti&theme=yeblu&hide_border=true" alt="angelanyabuti's GitHub Streak Stats" width="300" height="200" style="display: inline-block; margin-right: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelanyabuti&theme=yeblu&show_icons=true&hide_border=true&layout=compact" alt="angelanyabuti's Top Languages" width="200" max-height="100" style="display: inline-block;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelanyabuti&theme=yeblu&show_icons=true&hide_border=true&layout=compact" alt="angelanyabuti's Top Languages" width="200" height="100" style="display: inline-block;">
 </div>
 
 
