@@ -8,11 +8,7 @@
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=angelanyabuti&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 <div>
     <img src="https://github-readme-stats.vercel.app/api?username=angelanyabuti&theme=yeblu&show_icons=true&hide_border=true&count_private=true" alt="angelanyabuti's GitHub Stats" width="300" height="200" style="display: inline-block; margin-right: 10px;">
