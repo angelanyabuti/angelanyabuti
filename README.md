@@ -1,5 +1,6 @@
 <h4>Angela Kwamboka Nyabuti</h4>
 <h4>#100 days of code</h4>
+<p>📱 Mobile Application Developer</p>
 <p>📖 Currently Learning Jetpack Compose</p>
 
 
