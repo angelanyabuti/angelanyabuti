@@ -1,15 +1,18 @@
 <h4>Hello 👋 I'm Angela Nyabuti. An Android Developer and a Technical Writer.</h4>
 <h4>Skills: Java, XML, Kotlin, Jetpack Compose, Firebase, REST API, Android Studio.</h4>
 <p>I am currently building Echovibe, an app that plays music based on your mood.</p>
-<h4>Latest Articles</h4>
----
 
-<a href="https://blog.stackademic.com/lagging-in-lazyrow-jetpack-compose-60582ecfaeaf" >  <p style="text-decoration: none; color: inherit;">Improve LazyList Performance in Jetpack Compose.</p>
+<h4>Latest Articles</h4>
+
+<a href="https://blog.stackademic.com/lagging-in-lazyrow-jetpack-compose-60582ecfaeaf" style="text-decoration:none; color:inherit;">
+  Improve LazyList Performance in Jetpack Compose.
 </a>
 
+---
 
-[![wakatime](https://wakatime.com/badge/user/bad464a2-50cd-467b-bb39-a16ea09f8894.svg)](https://wakatime.com/@bad464a2-50cd-467b-bb39-a16ea09f8894)</br>
+[![wakatime](https://wakatime.com/badge/user/bad464a2-50cd-467b-bb39-a16ea09f8894.svg)](https://wakatime.com/@bad464a2-50cd-467b-bb39-a16ea09f8894)  
 ![](https://komarev.com/ghpvc/?username=angelanyabuti&color=blue)
+
 <p>Check out my <a href="https://angelanyabuti.netlify.app/" style="text-decoration:none;">Portfolio</a></p>
 
 
