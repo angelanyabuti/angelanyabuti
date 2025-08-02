@@ -3,13 +3,19 @@
 <p>I am currently building Echovibe, an app that plays music based on your mood.</p>
 
 <h4>Latest Articles</h4>
-<li>
 <ul>
-<a href="https://blog.stackademic.com/lagging-in-lazyrow-jetpack-compose-60582ecfaeaf" style="text-decoration:none; color:inherit;"> Improve LazyList Performance in Jetpack Compose.
-</a><br>
-<a href="https://medium.com/@nyabuti/how-to-publish-your-portfolio-on-github-4b9f7e7cd9f9" style="text-decoration:none; color:inherit;"> How to publish your portfolio on Github.
-</a>
-</ul></li>
+  <li>
+    <a href="https://blog.stackademic.com/lagging-in-lazyrow-jetpack-compose-60582ecfaeaf" style="text-decoration:none; color:inherit;">
+      Improve LazyList Performance in Jetpack Compose.
+    </a>
+  </li>
+  <li>
+    <a href="https://medium.com/@nyabuti/how-to-publish-your-portfolio-on-github-4b9f7e7cd9f9" style="text-decoration:none; color:inherit;">
+      How to publish your portfolio on Github.
+    </a>
+  </li>
+</ul>
+
 
 
 [![wakatime](https://wakatime.com/badge/user/bad464a2-50cd-467b-bb39-a16ea09f8894.svg)](https://wakatime.com/@bad464a2-50cd-467b-bb39-a16ea09f8894)  
