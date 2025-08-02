@@ -2,8 +2,8 @@
 <h4>Skills: Java, XML, Kotlin, Jetpack Compose, Firebase, REST API, Android Studio.</h4>
 <p>I am currently building Echovibe, an app that plays music based on your mood.</p>
 <h4>Latest Articles</h4>
-<p>***
-</p>
+---
+
 <a href="https://blog.stackademic.com/lagging-in-lazyrow-jetpack-compose-60582ecfaeaf" >  <p style="text-decoration: none; color: inherit;">Improve LazyList Performance in Jetpack Compose.</p>
 </a>
 
