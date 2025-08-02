@@ -1,7 +1,6 @@
-<h4>Angela Kwamboka Nyabuti</h4>
-<h4>#100 days of code</h4>
-<p>📱 Mobile Application Developer</p>
-<p>📖 Currently Learning Jetpack Compose</p>
+<h4>Hello 👋 I'm Angela Nyabuti. An Android Developer and a Technical Writer.</h4>
+<h4>Skills: Java, XML, Kotlin, Jetpack Compose, Firebase, REST API, Android Studio.</h4>
+<p>I am currently building Echovibe, an app that plays music based on your mood</p>
 
 
 [![wakatime](https://wakatime.com/badge/user/bad464a2-50cd-467b-bb39-a16ea09f8894.svg)](https://wakatime.com/@bad464a2-50cd-467b-bb39-a16ea09f8894)</br>
