@@ -3,6 +3,7 @@
 <p>I am currently building Echovibe, an app that plays music based on your mood.</p>
 
 <h4>Latest Articles</h4>
+<hr style="width: 50%; height: 1px; border: none; background-color: gray;" />
 
 ---
 
