@@ -1,5 +1,5 @@
 <h4>Hello 👋 I'm Angela Nyabuti. An Android Developer and a Technical Writer.</h4>
-<h4>Skills: Java, XML, Kotlin, Jetpack Compose, Firebase, REST API, Android Studio.</h4>
+<h4>Skills: Java, XML, Kotlin, Jetpack Compose, Firebase, REST API, Android Studio, MVVM Architecture.</h4>
 <p>I am currently building Echovibe, an app that plays music based on your mood.</p>
 
 <h4>Latest Articles</h4>
