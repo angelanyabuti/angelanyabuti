@@ -5,13 +5,13 @@
 <h4>Latest Articles</h4>
 <ul>
   <li>
-    <a href="https://blog.stackademic.com/lagging-in-lazyrow-jetpack-compose-60582ecfaeaf" style="text-decoration:none; color:inherit;">
-      Improve LazyList Performance in Jetpack Compose.
+    <a href="https://medium.com/stackademic/architecture-patterns-in-android-caef44414949" style="text-decoration:none; color:inherit;">
+      Architecture Patterns in Android
     </a>
   </li>
   <li>
-    <a href="https://medium.com/@nyabuti/how-to-publish-your-portfolio-on-github-4b9f7e7cd9f9" style="text-decoration:none; color:inherit;">
-      How to publish your portfolio on Github.
+    <a href="https://blog.stackademic.com/lagging-in-lazyrow-jetpack-compose-60582ecfaeaf" style="text-decoration:none; color:inherit;">
+      Improve LazyList Performance in Jetpack Compose.
     </a>
   </li>
 </ul>
