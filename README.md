@@ -5,15 +5,15 @@
 <h4>Latest Articles</h4>
 <ul>
   <li>
-    <a href="https://medium.com/stackademic/architecture-patterns-in-android-caef44414949" style="text-decoration:none; color:inherit;">
-      Architecture Patterns in Android
+    <a href="https://medium.com/stackademic/android-show-latest-updates-for-developers-from-google-2a214ff36e14" style="text-decoration:none; color:inherit;">
+      The Android Show - Latest updates for developers from Google
     </a>
   </li>
   <li>
-    <a href="https://blog.stackademic.com/lagging-in-lazyrow-jetpack-compose-60582ecfaeaf" style="text-decoration:none; color:inherit;">
-      Improve LazyList Performance in Jetpack Compose.
+    <a href="https://medium.com/stackademic/architecture-patterns-in-android-caef44414949" style="text-decoration:none; color:inherit;">
+      Architecture Patterns in Android
     </a>
-  </li>
+  </li>  
 </ul>
 
 
