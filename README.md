@@ -5,15 +5,15 @@
 <h4>Latest Articles</h4>
 <ul>
   <li>
-    <a href="https://medium.com/stackademic/android-show-latest-updates-for-developers-from-google-2a214ff36e14" style="text-decoration:none; color:inherit;">
-      The Android Show - Latest updates for developers from Google
+    <a href="https://medium.com/stackademic/how-to-safely-hide-secrets-in-your-android-application-2056461856ec" style="text-decoration:none; color:inherit;">
+       How to Safely Hide Secrets in Your Android Application
     </a>
   </li>
   <li>
-    <a href="https://medium.com/stackademic/architecture-patterns-in-android-caef44414949" style="text-decoration:none; color:inherit;">
-      Architecture Patterns in Android
+    <a href="https://medium.com/stackademic/android-show-latest-updates-for-developers-from-google-2a214ff36e14" style="text-decoration:none; color:inherit;">
+      The Android Show - Latest updates for developers from Google
     </a>
-  </li>  
+  </li>    
 </ul>
 
 
