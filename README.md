@@ -5,15 +5,15 @@
 <h4>Latest Articles</h4>
 <ul>
   <li>
-    <a href="https://medium.com/stackademic/how-to-safely-hide-secrets-in-your-android-application-2056461856ec" style="text-decoration:none; color:inherit;">
-       How to Safely Hide Secrets in Your Android Application
+    <a href="https://medium.com/@nyabuti/wearable-technology-and-their-operating-systems-explained-a579838caa84" style="text-decoration:none; color:inherit;">
+      Wearable Technology and Their Operating Systems Explained
     </a>
   </li>
   <li>
-    <a href="https://medium.com/stackademic/android-show-latest-updates-for-developers-from-google-2a214ff36e14" style="text-decoration:none; color:inherit;">
-      The Android Show - Latest updates for developers from Google
+    <a href="https://medium.com/stackademic/how-to-safely-hide-secrets-in-your-android-application-2056461856ec" style="text-decoration:none; color:inherit;">
+       How to Safely Hide Secrets in Your Android Application
     </a>
-  </li>    
+  </li>      
 </ul>
 
 
