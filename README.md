@@ -5,15 +5,15 @@
 <h4>Latest Articles</h4>
 <ul>
   <li>
-    <a href="https://medium.com/@nyabuti/security-best-practices-for-mobile-apps-banking-case-study-eabda8ef19fa" style="text-decoration:none; color:inherit;">
-     Security Best Practices for Mobile Apps (Banking Case Study)
+    <a href="https://medium.com/@nyabuti/state-management-in-jetpack-compose-c412335738af" style="text-decoration:none; color:inherit;">
+       State management in Jetpack Compose
     </a>
   </li>
   <li>
-    <a href="https://medium.com/stackademic/how-to-safely-hide-secrets-in-your-android-application-2056461856ec" style="text-decoration:none; color:inherit;">
-       How to Safely Hide Secrets in Your Android Application
+    <a href="https://medium.com/@nyabuti/security-best-practices-for-mobile-apps-banking-case-study-eabda8ef19fa" style="text-decoration:none; color:inherit;">
+     Security Best Practices for Mobile Apps (Banking Case Study)
     </a>
-  </li>      
+  </li>        
 </ul>
 
 
